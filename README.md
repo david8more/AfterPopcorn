@@ -2,7 +2,7 @@
 ![alt text](https://github.com/david8more/AfterPopcorn/blob/main/data/header.png)
 
 
-The aim of this project is to provide a broad understanding on how mainstream audiovisual content is perceived by the audience on the internet. The different tasks are developed along the different Jupyter Notebooks files.
+The aim of this project is to provide a broad understanding on how mainstream audiovisual content is perceived by the audience on the internet. The different tasks are developed along the different Jupyter Notebooks files. The root Notebook, from where you can reach the rest of them in a logical way, is the main.ipynb.
 
 It is known that people feels more free when expressing their opinions on the social networks or virtual forums rather than expressing them face to face. It would also be a cheaper approach, both economically and energetically, for audiovisual content platforms such as Netflix to rate the success of a show or a movie by a study of this kind rather than paying for the developement and distribution of polls. In the long run this could also help in taking more voices into account when considering whether a show will continue or will be cancelled, since at the moment the platforms are putting a pause on shows that have a great and relevant response in social media. However, the methods used have to be finely tuned in order to produce the desired results.
 
